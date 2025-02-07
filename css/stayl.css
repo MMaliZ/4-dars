@@ -1,0 +1,7 @@
+@import url("./normalize.css");
+
+.wrap {
+  padding: 20px;
+  border: 2px solid black;
+  text-align: center;
+}
